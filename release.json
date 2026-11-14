@@ -1,0 +1,13 @@
+{
+  "version": "3.2.0",
+  "platforms": {
+    "aarch64-linux": {
+      "url": "https://registry.npmjs.org/@polar-sh/cli-linux-arm64/-/cli-linux-arm64-3.2.0.tgz",
+      "hash": "sha512-gC0t+gXPWJPRGMQE/3pYBcK8m5x86BisRAzOITwJpl1ij9PVLG+fuY3ahCoCK9tw+rfY4f9vR3Dw+g62kBPWiw=="
+    },
+    "x86_64-linux": {
+      "url": "https://registry.npmjs.org/@polar-sh/cli-linux-x64/-/cli-linux-x64-3.2.0.tgz",
+      "hash": "sha512-fH6lDBZkM3mE62tlYa6zN15kgPvW5oL7Lu3Ox7k2pyVD/EQsYwL6yfbucuSUdYqynXdx7NJKzACIO6SgW+DOXA=="
+    }
+  }
+}
